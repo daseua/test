@@ -27,8 +27,8 @@ https://tracker.moeblog.cn:443/announce
 udp://tracker.fnix.net:6969/announce
 http://taciturn-shadow.spb.ru:6969/announce
 http://tracker.waaa.moe:6969/announce
-udp://udp.tracker.projectk.org:23333/announce
 udp://tracker.playground.ru:6969/announce
+udp://udp.tracker.projectk.org:23333/announce
 http://tracker.mywaifu.best:6969/announce
 udp://tracker.srv00.com:6969/announce
 udp://evan.im:6969/announce
